@@ -1,0 +1,4 @@
+/home/users/j/jacsont/Sardi_Toponomasia/Groundtruth_Niblack/Cod_174_f069r.xml
+/home/users/j/jacsont/Sardi_Toponomasia/Groundtruth_Niblack/Cod_174_f074r.xml
+/home/users/j/jacsont/Sardi_Toponomasia/Groundtruth_Niblack/Cod_174_f073r.xml
+/home/users/j/jacsont/Sardi_Toponomasia/Groundtruth_Niblack/Cod_174_f064v.xml
