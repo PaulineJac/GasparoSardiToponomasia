@@ -1,0 +1,152 @@
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[38.4822] Text line " " is empty after transformations 
+[38.4824] Text line " " is empty after transformations 
+[38.4825] Text line " " is empty after transformations 
+[38.4826] Text line " " is empty after transformations 
+[38.4827] Text line " " is empty after transformations 
+[38.4827] Text line " " is empty after transformations 
+[38.4828] Text line " " is empty after transformations 
+[38.4829] Text line " " is empty after transformations 
+[38.4830] Text line " " is empty after transformations 
+[38.4831] Text line " " is empty after transformations 
+[38.4831] Text line " " is empty after transformations 
+[38.4832] Text line " " is empty after transformations 
+[38.4833] Text line " " is empty after transformations 
+[38.4833] Text line " " is empty after transformations 
+[38.4834] Text line " " is empty after transformations 
+[38.4835] Text line " " is empty after transformations 
+[38.4836] Text line " " is empty after transformations 
+[38.4836] Text line " " is empty after transformations 
+[38.4837] Text line " " is empty after transformations 
+[38.4838] Text line " " is empty after transformations 
+[38.4839] Text line " " is empty after transformations 
+[38.4840] Text line " " is empty after transformations 
+[38.4840] Text line " " is empty after transformations 
+[38.4841] Text line " " is empty after transformations 
+[38.4842] Text line " " is empty after transformations 
+[38.4843] Text line " " is empty after transformations 
+[38.4843] Text line " " is empty after transformations 
+[38.4844] Text line " " is empty after transformations 
+[38.4845] Text line " " is empty after transformations 
+[38.4846] Text line " " is empty after transformations 
+[38.4846] Text line " " is empty after transformations 
+[38.4847] Text line " " is empty after transformations 
+[38.4848] Text line " " is empty after transformations 
+[38.4849] Text line " " is empty after transformations 
+[38.4850] Text line " " is empty after transformations 
+[38.4850] Text line " " is empty after transformations 
+[38.4851] Text line " " is empty after transformations 
+[38.4852] Text line " " is empty after transformations 
+[38.4853] Text line " " is empty after transformations 
+[38.4853] Text line " " is empty after transformations 
+[38.4854] Text line " " is empty after transformations 
+[38.5245] No boundary given for line 
+[38.5296] Text line " " is empty after transformations 
+[38.5340] Text line " " is empty after transformations 
+[38.5341] Text line " " is empty after transformations 
+[38.5342] Text line " " is empty after transformations 
+[38.5342] Text line " " is empty after transformations 
+[38.5343] Text line " " is empty after transformations 
+[38.5344] Text line " " is empty after transformations 
+[38.5344] Text line " " is empty after transformations 
+[38.5345] Text line " " is empty after transformations 
+[38.5346] Text line " " is empty after transformations 
+[38.5347] Text line " " is empty after transformations 
+[38.5348] Text line " " is empty after transformations 
+[38.5348] Text line " " is empty after transformations 
+[38.5349] Text line " " is empty after transformations 
+[38.5350] Text line " " is empty after transformations 
+[38.5351] Text line " " is empty after transformations 
+[38.5351] Text line " " is empty after transformations 
+[38.5352] Text line " " is empty after transformations 
+[38.5353] Text line " " is empty after transformations 
+[38.5354] Text line " " is empty after transformations 
+[38.5355] Text line " " is empty after transformations 
+[38.5355] Text line " " is empty after transformations 
+[38.5356] Text line " " is empty after transformations 
+[38.5357] Text line " " is empty after transformations 
+[38.5358] Text line " " is empty after transformations 
+[38.5358] Text line " " is empty after transformations 
+[38.5359] Text line " " is empty after transformations 
+[38.5360] Text line " " is empty after transformations 
+[38.5360] Text line " " is empty after transformations 
+[38.5362] Text line " " is empty after transformations 
+[38.5362] Text line " " is empty after transformations 
+[38.5363] Text line " " is empty after transformations 
+[38.5364] Text line " " is empty after transformations 
+[38.5365] Text line " " is empty after transformations 
+[38.5365] Text line " " is empty after transformations 
+[38.5366] Text line " " is empty after transformations 
+[38.5367] Text line " " is empty after transformations 
+[38.5367] Text line " " is empty after transformations 
+[38.5368] Text line " " is empty after transformations 
+[38.5369] Text line " " is empty after transformations 
+[38.5370] Text line " " is empty after transformations 
+[38.5370] Text line " " is empty after transformations 
+[38.6734] No boundary given for line 
+[38.6786] Text line " " is empty after transformations 
+Building validation set
+[38.7199] alphabet mismatch: chars in training set only: {'σ', '*', 'ἱ', 'μ', 'ό', 'Φ', 'U', 'ï', 'ί', 'ε', 'ὰ', 'χ', 'ἑ', 'w', '‹', 'Ꝝ', 'Y', 'k', 'X', 'Υ', 'Δ', 'Τ', '῀', '̆', 'ρ', 'γ', '(', 'θ', 'ŭ', 'ᾶ', 'α', 'J', 'λ', 'Η', 'ς', 'ὸ', 'κ', 'ù', 'v', 'π', 'œ', ')', '<', 'ἵ', 'K', 'ύ', 'ↄ', 'ī', 'Κ', 'ύ', 'ā', 'ȳ', '›', '⸤', 'Λ', 'ē', 'ō', 'è', 'ι', 'ἁ', 'ω', 'ο', 'ἀ'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.2702 5489 4006
+stage 2/∞
+Accuracy report (2) 0.7145 5489 1567
+stage 3/∞
+Accuracy report (3) 0.8315 5489 925
+stage 4/∞
+Accuracy report (4) 0.8672 5489 729
+stage 5/∞
+Accuracy report (5) 0.8912 5489 597
+stage 6/∞
+Accuracy report (6) 0.9082 5489 504
+stage 7/∞
+Accuracy report (7) 0.9160 5489 461
+stage 8/∞
+Accuracy report (8) 0.9222 5489 427
+stage 9/∞
+Accuracy report (9) 0.9297 5489 386
+stage 10/∞
+Accuracy report (10) 0.9401 5489 329
+stage 11/∞
+Accuracy report (11) 0.9377 5489 342
+stage 12/∞
+Accuracy report (12) 0.9437 5489 309
+stage 13/∞
+Accuracy report (13) 0.9422 5489 317
+stage 14/∞
+Accuracy report (14) 0.9470 5489 291
+stage 15/∞
+Accuracy report (15) 0.9484 5489 283
+stage 16/∞
+Accuracy report (16) 0.9545 5489 250
+stage 17/∞
+Accuracy report (17) 0.9565 5489 239
+stage 18/∞
+Accuracy report (18) 0.9596 5489 222
+stage 19/∞
+Accuracy report (19) 0.9599 5489 220
+stage 20/∞
+Accuracy report (20) 0.9657 5489 188
+stage 21/∞
+Accuracy report (21) 0.9650 5489 192
+stage 22/∞
+Accuracy report (22) 0.9512 5489 268
+stage 23/∞
+Accuracy report (23) 0.9656 5489 189
+stage 24/∞
+Accuracy report (24) 0.9752 5489 136
+stage 25/∞
+Accuracy report (25) 0.9574 5489 234
+stage 26/∞
+Accuracy report (26) 0.9750 5489 137
+stage 27/∞
+Accuracy report (27) 0.9719 5489 154
+stage 28/∞
+Accuracy report (28) 0.9727 5489 150
+stage 29/∞
+Accuracy report (29) 0.9716 5489 156
+Moving best model output_name_24.mlmodel (0.975223183631897) to output_name_best.mlmodel
