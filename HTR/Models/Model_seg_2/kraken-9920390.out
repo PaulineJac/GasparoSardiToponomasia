@@ -1,0 +1,117 @@
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Creating model [1,1200,0,3 Cr7,7,64,2,2 Gn32 Cr3,3,128,2,2 Gn32 Cr3,3,128 Gn32 Cr3,3,256 Gn32 Cr3,3,256 Gn32 Lbx32 Lby32 Cr1,1,32 Gn32 Lby32 Lbx32 O2l13] with 13 outputs ✓
+Training line types:
+  default	2	43
+  InterlinearLine:correction	3	19
+  headingLine	4	41
+  DefaultLine	5	1577
+Training region types:
+  QuireMarksZone:catchwords	6	31
+  NumberingZone:page	7	15
+  text	8	14
+  MainZone	9	45
+  TitlePageZone	10	12
+  MarginTextZone:note	11	4
+  RunningTitleZone	12	24
+stage 1/50
+Accuracy report (1) mean_iu: 0.0481 freq_iu: 0.3087 mean_acc: 0.0481 accuracy: 0.0481
+stage 2/50
+Accuracy report (2) mean_iu: 0.0481 freq_iu: 0.3087 mean_acc: 0.0481 accuracy: 0.0481
+stage 3/50
+Accuracy report (3) mean_iu: 0.0464 freq_iu: 0.3075 mean_acc: 0.5549 accuracy: 0.5549
+stage 4/50
+Accuracy report (4) mean_iu: 0.0320 freq_iu: 0.2774 mean_acc: 0.9368 accuracy: 0.9368
+stage 5/50
+Accuracy report (5) mean_iu: 0.2628 freq_iu: 0.2774 mean_acc: 0.9389 accuracy: 0.9389
+stage 6/50
+Accuracy report (6) mean_iu: 0.2628 freq_iu: 0.2774 mean_acc: 0.9390 accuracy: 0.9390
+stage 7/50
+Accuracy report (7) mean_iu: 0.2628 freq_iu: 0.2774 mean_acc: 0.9390 accuracy: 0.9390
+stage 8/50
+Accuracy report (8) mean_iu: 0.2628 freq_iu: 0.2774 mean_acc: 0.9390 accuracy: 0.9390
+stage 9/50
+Accuracy report (9) mean_iu: 0.2787 freq_iu: 0.4146 mean_acc: 0.9645 accuracy: 0.9645
+stage 10/50
+Accuracy report (10) mean_iu: 0.2873 freq_iu: 0.4892 mean_acc: 0.9723 accuracy: 0.9723
+stage 11/50
+Accuracy report (11) mean_iu: 0.3115 freq_iu: 0.5642 mean_acc: 0.9596 accuracy: 0.9596
+stage 12/50
+Accuracy report (12) mean_iu: 0.3163 freq_iu: 0.5852 mean_acc: 0.9652 accuracy: 0.9652
+stage 13/50
+Accuracy report (13) mean_iu: 0.3212 freq_iu: 0.5944 mean_acc: 0.9698 accuracy: 0.9698
+stage 14/50
+Accuracy report (14) mean_iu: 0.3282 freq_iu: 0.6206 mean_acc: 0.9746 accuracy: 0.9746
+stage 15/50
+Accuracy report (15) mean_iu: 0.3266 freq_iu: 0.6091 mean_acc: 0.9737 accuracy: 0.9737
+stage 16/50
+Accuracy report (16) mean_iu: 0.1788 freq_iu: 0.6299 mean_acc: 0.9763 accuracy: 0.9763
+stage 17/50
+Accuracy report (17) mean_iu: 0.1017 freq_iu: 0.6234 mean_acc: 0.9761 accuracy: 0.9761
+stage 18/50
+Accuracy report (18) mean_iu: 0.1141 freq_iu: 0.6439 mean_acc: 0.9783 accuracy: 0.9783
+stage 19/50
+Accuracy report (19) mean_iu: 0.3341 freq_iu: 0.6363 mean_acc: 0.9774 accuracy: 0.9774
+stage 20/50
+Accuracy report (20) mean_iu: 0.3318 freq_iu: 0.6263 mean_acc: 0.9766 accuracy: 0.9766
+stage 21/50
+Accuracy report (21) mean_iu: 0.1063 freq_iu: 0.6218 mean_acc: 0.9767 accuracy: 0.9767
+stage 22/50
+Accuracy report (22) mean_iu: 0.1109 freq_iu: 0.6379 mean_acc: 0.9779 accuracy: 0.9779
+stage 23/50
+Accuracy report (23) mean_iu: 0.1083 freq_iu: 0.6202 mean_acc: 0.9756 accuracy: 0.9756
+stage 24/50
+Accuracy report (24) mean_iu: 0.3325 freq_iu: 0.6215 mean_acc: 0.9765 accuracy: 0.9765
+stage 25/50
+Accuracy report (25) mean_iu: 0.3328 freq_iu: 0.6256 mean_acc: 0.9769 accuracy: 0.9769
+stage 26/50
+Accuracy report (26) mean_iu: 0.1847 freq_iu: 0.6452 mean_acc: 0.9785 accuracy: 0.9785
+stage 27/50
+Accuracy report (27) mean_iu: 0.1056 freq_iu: 0.6321 mean_acc: 0.9776 accuracy: 0.9776
+stage 28/50
+Accuracy report (28) mean_iu: 0.1042 freq_iu: 0.6218 mean_acc: 0.9762 accuracy: 0.9762
+stage 29/50
+Accuracy report (29) mean_iu: 0.1064 freq_iu: 0.6357 mean_acc: 0.9775 accuracy: 0.9775
+stage 30/50
+Accuracy report (30) mean_iu: 0.1010 freq_iu: 0.6078 mean_acc: 0.9750 accuracy: 0.9750
+stage 31/50
+Accuracy report (31) mean_iu: 0.1108 freq_iu: 0.6108 mean_acc: 0.9745 accuracy: 0.9745
+stage 32/50
+Accuracy report (32) mean_iu: 0.3362 freq_iu: 0.6348 mean_acc: 0.9781 accuracy: 0.9781
+stage 33/50
+Accuracy report (33) mean_iu: 0.1050 freq_iu: 0.6053 mean_acc: 0.9752 accuracy: 0.9752
+stage 34/50
+Accuracy report (34) mean_iu: 0.1129 freq_iu: 0.6384 mean_acc: 0.9778 accuracy: 0.9778
+stage 35/50
+Accuracy report (35) mean_iu: 0.1077 freq_iu: 0.6097 mean_acc: 0.9753 accuracy: 0.9753
+stage 36/50
+Accuracy report (36) mean_iu: 0.1001 freq_iu: 0.5780 mean_acc: 0.9726 accuracy: 0.9726
+stage 37/50
+Accuracy report (37) mean_iu: 0.1286 freq_iu: 0.6369 mean_acc: 0.9780 accuracy: 0.9780
+stage 38/50
+Accuracy report (38) mean_iu: 0.1378 freq_iu: 0.6294 mean_acc: 0.9770 accuracy: 0.9770
+stage 39/50
+Accuracy report (39) mean_iu: 0.1299 freq_iu: 0.6359 mean_acc: 0.9776 accuracy: 0.9776
+stage 40/50
+Accuracy report (40) mean_iu: 0.1272 freq_iu: 0.6520 mean_acc: 0.9791 accuracy: 0.9791
+stage 41/50
+Accuracy report (41) mean_iu: 0.1364 freq_iu: 0.6398 mean_acc: 0.9775 accuracy: 0.9775
+stage 42/50
+Accuracy report (42) mean_iu: 0.1302 freq_iu: 0.6456 mean_acc: 0.9779 accuracy: 0.9779
+stage 43/50
+Accuracy report (43) mean_iu: 0.1343 freq_iu: 0.6325 mean_acc: 0.9767 accuracy: 0.9767
+stage 44/50
+Accuracy report (44) mean_iu: 0.1349 freq_iu: 0.6301 mean_acc: 0.9760 accuracy: 0.9760
+stage 45/50
+Accuracy report (45) mean_iu: 0.1380 freq_iu: 0.6380 mean_acc: 0.9776 accuracy: 0.9776
+stage 46/50
+Accuracy report (46) mean_iu: 0.1456 freq_iu: 0.6020 mean_acc: 0.9746 accuracy: 0.9746
+stage 47/50
+Accuracy report (47) mean_iu: 0.1599 freq_iu: 0.6350 mean_acc: 0.9773 accuracy: 0.9773
+stage 48/50
+Accuracy report (48) mean_iu: 0.3772 freq_iu: 0.6418 mean_acc: 0.9776 accuracy: 0.9776
+stage 49/50
+Accuracy report (49) mean_iu: 0.1653 freq_iu: 0.6253 mean_acc: 0.9763 accuracy: 0.9763
+stage 50/50
+Accuracy report (50) mean_iu: 0.2448 freq_iu: 0.6556 mean_acc: 0.9791 accuracy: 0.9791
