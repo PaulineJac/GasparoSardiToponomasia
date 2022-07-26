@@ -1,0 +1,114 @@
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[48.8860] No boundary given for line 
+[48.8915] Text line " " is empty after transformations 
+[48.9748] No boundary given for line 
+[48.9801] Text line " " is empty after transformations 
+Building validation set
+[49.0705] alphabet mismatch: chars in training set only: {'ε', 'ο', 'Δ', 'ἀ', 'ἑ', '῀', 'ί', 'Y', ')', 'ē', 'J', 'ī', 'w', 'k', 'ȳ', 'ρ', 'ō', '›', 'Ꝝ', 'U', 'ι', 'α', '̆', '⸤', 'γ', 'ό', 'ύ', 'κ', 'ἁ', 'ς', '*', 'ā', 'ὸ', 'ὰ', 'Φ', 'σ', 'ↄ', 'è', 'ἱ', 'ù', 'Λ', 'v', '‹', 'Τ', 'ἵ', 'μ', 'Η', '<', 'œ', 'Υ', '(', 'π', 'ύ', 'λ', 'θ', 'ᾶ', 'X', '?', 'ŭ', 'ω', 'Κ', 'χ', 'K', 'ï'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.2592 5489 4066
+stage 2/∞
+Accuracy report (2) 0.7388 5489 1434
+stage 3/∞
+Accuracy report (3) 0.8366 5489 897
+stage 4/∞
+Accuracy report (4) 0.8821 5489 647
+stage 5/∞
+Accuracy report (5) 0.9002 5489 548
+stage 6/∞
+Accuracy report (6) 0.9104 5489 492
+stage 7/∞
+Accuracy report (7) 0.9262 5489 405
+stage 8/∞
+Accuracy report (8) 0.9266 5489 403
+stage 9/∞
+Accuracy report (9) 0.9370 5489 346
+stage 10/∞
+Accuracy report (10) 0.9455 5489 299
+stage 11/∞
+Accuracy report (11) 0.9486 5489 282
+stage 12/∞
+Accuracy report (12) 0.9479 5489 286
+stage 13/∞
+Accuracy report (13) 0.9494 5489 278
+stage 14/∞
+Accuracy report (14) 0.9512 5489 268
+stage 15/∞
+Accuracy report (15) 0.9546 5489 249
+stage 16/∞
+Accuracy report (16) 0.9605 5489 217
+stage 17/∞
+Accuracy report (17) 0.9574 5489 234
+stage 18/∞
+Accuracy report (18) 0.9612 5489 213
+stage 19/∞
+Accuracy report (19) 0.9634 5489 201
+stage 20/∞
+Accuracy report (20) 0.9650 5489 192
+stage 21/∞
+Accuracy report (21) 0.9634 5489 201
+stage 22/∞
+Accuracy report (22) 0.9678 5489 177
+stage 23/∞
+Accuracy report (23) 0.9657 5489 188
+stage 24/∞
+Accuracy report (24) 0.9678 5489 177
+stage 25/∞
+Accuracy report (25) 0.9716 5489 156
+stage 26/∞
+Accuracy report (26) 0.9709 5489 160
+stage 27/∞
+Accuracy report (27) 0.9723 5489 152
+stage 28/∞
+Accuracy report (28) 0.9718 5489 155
+stage 29/∞
+Accuracy report (29) 0.9743 5489 141
+stage 30/∞
+Accuracy report (30) 0.9760 5489 132
+stage 31/∞
+Accuracy report (31) 0.9760 5489 132
+stage 32/∞
+Accuracy report (32) 0.9752 5489 136
+stage 33/∞
+Accuracy report (33) 0.9767 5489 128
+stage 34/∞
+Accuracy report (34) 0.9774 5489 124
+stage 35/∞
+Accuracy report (35) 0.9772 5489 125
+stage 36/∞
+Accuracy report (36) 0.9769 5489 127
+stage 37/∞
+Accuracy report (37) 0.9758 5489 133
+stage 38/∞
+Accuracy report (38) 0.9770 5489 126
+stage 39/∞
+Accuracy report (39) 0.9807 5489 106
+stage 40/∞
+Accuracy report (40) 0.9807 5489 106
+stage 41/∞
+Accuracy report (41) 0.9834 5489 91
+stage 42/∞
+Accuracy report (42) 0.9827 5489 95
+stage 43/∞
+Accuracy report (43) 0.9805 5489 107
+stage 44/∞
+Accuracy report (44) 0.9811 5489 104
+stage 45/∞
+Accuracy report (45) 0.9823 5489 97
+stage 46/∞
+Accuracy report (46) 0.9845 5489 85
+stage 47/∞
+Accuracy report (47) 0.9814 5489 102
+stage 48/∞
+Accuracy report (48) 0.9776 5489 123
+stage 49/∞
+Accuracy report (49) 0.9825 5489 96
+stage 50/∞
+Accuracy report (50) 0.9831 5489 93
+stage 51/∞
+Accuracy report (51) 0.9852 5489 81
+Moving best model output_name_46.mlmodel (0.9845144748687744) to output_name_best.mlmodel
