@@ -14,6 +14,12 @@
         <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
         <script type="module" src="pb-leaflet-map.js" data-template="pages:load-components"/>
         <style>
+       .welcome { display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    }
             main {
                 max-width: 41rem;
                 margin: 0 auto;
@@ -30,12 +36,12 @@
                     <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall">
                         <app-toolbar data-template="templates:include" data-template-path="templates/menu.html"/>
                     </app-header>
-                     <main class="content-static">
-                    <div id="Welcome" class="content-static">
-                       <img src="resources/images/Toponomasia_Home.png" width="120%"/>
+                     <main>
+                    <div class="welcome">
+                       <img src="resources/images/Toponomasia_Home.png" width="125%"/>
                     </div>
                      </main>
-                <pb-leaflet-map id="map" subscribe="map" emit="map" zoom="5" cluster="" latitude="41.89193" longitude="12.51133">
+                <pb-leaflet-map id="map" subscribe="map" emit="map" zoom="4.5" cluster="" latitude="41.89193" longitude="12.51133">
     <pb-map-layer show="" base="" label="Mapbox OSM" url="https://api.mapbox.com/styles/v1/paulinejac/cl4we8yb9000k14nzhzxnime6/tiles/256/{z}/{x}/{y}@2x?access_token={accessToken}" max-zoom="19" access-token="pk.eyJ1IjoicGF1bGluZWphYyIsImEiOiJjbDR3ZTRtNWQwcWV3M2JxZXBqYjZjZzFuIn0.gIrZtXgF5eHO08y5sms_4w" attribution="© Mapbox © OpenStreetMap">
     </pb-map-layer>
     <pb-map-icon icon-url="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/128/Actions-flag-yellow-icon.png" icon-size="20, 38" icon-anchor="15, 35" popup-anchor="-3, -76">

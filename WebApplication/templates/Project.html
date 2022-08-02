@@ -14,6 +14,7 @@
         <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
         <script type="module" src="pb-leaflet-map.js" data-template="pages:load-components"/>
         <style>
+        
             div.project { display: flex;
     flex-direction: column;
     justify-content: center;
@@ -22,6 +23,23 @@
     margin-left: 30em;
     margin-right: 30em;
     text-align: justify;
+    }
+    @font-face {
+  font-family: 'Quintessential';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/quintessential/v20/fdNn9sOGq31Yjnh3qWU14Ddtjb53QbgEADxN.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+    
+    .title_project {
+    font-family: 'Quintessential';
+    color: #766435;
+}
+
+    
+  
 }
         </style>
     </head>
@@ -38,6 +56,27 @@
                      </main>
             </app-header-layout>
         </pb-page>
+         <div class="project"> 
+            <p>The objective of this project is to propose a digital edition of the <i>Toponomasia</i>, which will allow the future reader to access the content of the text from a map where the toponyms collected by Gasparo Sardi are geolocated.
+                 The Toponomasia has been transmitted to our time thanks to four manuscripts: three manuscripts are preserved in the Estense library (Lat. 177 (ms. Alpha O.6.16), Lat. 293 (ms. Alpha. W.4.25), and Lat 481), and one manuscript, the <a href="http://katalog.burgerbib.ch/detail.aspx?ID=340662">codex 174</a> is now preserved at the Burgerbibliothek of Bern (Jacques Bongars acquired the manuscript and then, as a result of inheritance, was bequeathed to the Burgerbibliothek of Bern). These manuscripts have never been published before, either digitally or in print: this is, therefore, the first edition of Gaspari Sardi's work based on the codex 174.
+            </p>
+             <h1 class="title_project">Data</h1>
+             <p>
+             Within the framework of this project, the codex 174 of the Burgherbibliothek of Bern was digitised using photographic capture with the help of Dr Mittenhuber, curator of the Burgherbibliothek Bern, and Mrs Jacsont (in order to obtain the best results at the HTR, the images are in tif format and have a resolution of 400 dpi). Based on these scans, automatic transcription was carried out using <a href="https://kraken.re/master/index.html">Kraken</a> software and the eScriptorium platform set up in Geneva by the <a href="https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue">FoNDUE project</a>.
+ From eScriptorium, the automatic transcriptions were exported in ALTO (XML) format, then transformed into a single masterfile annotated in XML-TEI according to the needs of digital publishing thanks to an XSL style sheet: this style sheet, the odd of the TEI schema, as well as all the transcriptions are available on the <a href="https://github.com/PaulineJac/GasparoSardiToponomasia/tree/main/HTR">Github of the project</a>. </p>
+ <h1 class="title_project">Web development</h1>
+             <p>
+             For the digital edition of Toponomasia, an application was generated on <a href="https://teipublisher.com/index.html">Tei-publisher</a>: a platform administered by the <a href="https://e-editiones.org">e-editiones</a>
+             community allowing the publication of XML-TL content based on the XML data management system <a href="http://exist-db.org/exist/apps/homepage/index.html">eXist-DB</a>. TEI-publisher offers a standardised and customisable solution for digital publishing.
+             </p>
+              <p>
+            From the web application developed, the user can easily have an overview of the toponyms treated in the Sardi edition (currently *** toponyms have been geolocated, but in the long term, it will be 2553 toponyms); on the other hand, the entire HTR preaching is also available from this application: it can be downloaded, consulted and questioned from the <a href="http://localhost:8080/exist/apps/SardiToponomasia/masterfile.xml">"transcription"</a> tab. 
+             </p>
+             
+        </div>
+        
+        
+       
        
     </body>
 </html>

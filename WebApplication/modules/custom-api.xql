@@ -94,7 +94,7 @@ declare function api:output-place($list, $category as xs:string, $search as xs:s
         let $categoryParam := if ($category = "all") then substring($place/@n, 1, 1) else $category
         let $params := "category=" || $categoryParam || "&amp;search=" || $search
         let $label := $place/@n/string()
-        let $item := doc($config:data-root || "/masterfile.xml/")//tei:item[@n = $label]
+        let $item := doc($config:data-root || "/masterfile.xml/")//tei:item[@xml:id = $label]
         let $coords := tokenize($place/tei:location/tei:geo)
         return
             <span class="place">
@@ -111,7 +111,7 @@ declare function api:get-latin-text($node as node(), $model as map(*)) {
     (:On récupère le paramètre "place" et sa valeur:)
     let $lieu := request:get-parameter("place", ())
     (: On utilise la valeur du paramètre pour chercher dans masterfile.xml la portion de texte :)
-    let $item := doc($config:data-root || "/masterfile.xml/")//tei:item[@n = $lieu] 
+    let $item := doc($config:data-root || "/masterfile.xml/")//tei:item[@xml:id = $lieu] 
     (: On affiche le nom du lieu dans <h1> et le texte dans <p> :)
     return  
         <div class ="item"> 

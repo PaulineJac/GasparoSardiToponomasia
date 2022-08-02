@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" key="places">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Toponomasia : names places</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Pauline Jacsont</publisher>
+            <availability status="restricted">
+               <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>List of geographical names in Gasparo Sardi's Toponomasia</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2022-06-12" who="#PJ">Creation of the document</change>
+      </revisionDesc>
+   </teiHeader>
+   <standOff>
+            <listPlace>
+            <place key="Euboea" n="Abantis">
+                  <placename ref="geo-262565">Euboea</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>40.9307</lat>
+                        <lng>25.91599</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Abano" n="Abantis">
+                  <placename ref="geo-3183587">Abano</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>45.35753</lat>
+                        <lng>11.78725</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Almería" n="Abdera">
+                  <placename ref="geo-2521886">Almería</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>36.83814</lat>
+                        <lng>-2.45974</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Avella" n="Abella">
+                  <placename ref="geo-3182651">Avella</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>40.95995</lat>
+                        <lng>14.60087</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Hylaea" n="Abice">
+                  <placename ref="Ø">Abice</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>47</lat>
+                        <lng>32</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Abis" n="Abis">
+                  <placename ref="Ø">Abis</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>48.603579313459015</lat>
+                        <lng>12.316360473632814</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Odenwald" n="Abnobij">
+                  <placename ref="geo-2858101">Abis</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>49.61667</lat>
+                        <lng>8.83333</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+                  </place>
+                   <place key="Arcani" n="Abonimoenia">
+                  <placename ref="geo-686235">Abonimoenia</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>45.08333</lat>
+                        <lng>23.13333</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Brodici" n="Abroditæ">
+                  <placename ref="Ø">Brodici</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>54</lat>
+                        <lng>11</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Epfach" n="Abudiacum">
+                  <placename ref="geo-2929874">Epfach</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>47.91121</lat>
+                        <lng>10.90931</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Humber" n="Abus">
+                  <placename ref="geo-2646437">Humber</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>53.54541</lat>
+                        <lng>0.10471</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Abensperg" n="Abusina">
+                  <placename ref="geo-2959842">Abensperg</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>48.81684</lat>
+                        <lng>11.8498</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Dulopolis" n="Acanthus">
+                  <placename ref="Ø">Dulopolis</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>37.5</lat>
+                        <lng>28.0</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Acarnania" n="Acarnania">
+                  <placename ref="Ø">Acarnania</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>38.52</lat>
+                        <lng>21.13</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               
+               <place key="Qiryat Ye‘arim" n="Baala">
+                  <placename ref="geo-293821">Qiryat Ye‘arim</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>31.81144</lat>
+                        <lng>35.10571</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Babba" n="babba">
+                  <placename ref="geo-2542007">Babba</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>28.5</lat>
+                        <lng>-10</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Babylon" n="Babylon">
+                  <placename ref="geo-98228">Babylon</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>32.54083</lat>
+                        <lng>44.42417</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Chalon-sur-Saône" n="Caballinum">
+                  <placename ref="geo-3027484">Chalon-sur-Saône</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>46.78112</lat>
+                        <lng>4.85372</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Cavaillon" n="Cabelliorum">
+                  <placename ref="geo-3028134">Cavaillon</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>43.83125</lat>
+                        <lng>5.03586</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+            </listPlace>
+   </standOff>
+</TEI>

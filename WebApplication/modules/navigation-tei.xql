@@ -135,7 +135,7 @@ declare function nav:get-subsections($config as map(*), $root as node()) {
 };
 
 declare function nav:get-section-heading($config as map(*), $section as node()) {
-    $section/tei:head
+    $section/tei:head[@type="Initium_libri"]
 };
 
 declare function nav:is-filler($config as map(*), $div) {

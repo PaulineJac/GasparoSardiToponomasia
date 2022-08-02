@@ -36,7 +36,8 @@ body {
     --pb-content-font-family: var(--pb-serif-font-family);
     --pb-content-font-size: 20px;
     --pb-heading-font-family: "Oswald", Verdana, "Helvetica", sans-serif;
-    --pb-heading-font-weight: 400 !important;
+    --pb-heading-font-weight: 400;
+    --pb-heading-font-weight-2: 600;
     --pb-heading-line-height: 1.2;
     --pb-breadcrumbs-font-size: 18px;
     --pb-color-primary: #303030;
@@ -330,9 +331,15 @@ pb-popover {
     text-align: left !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
     font-family: var(--pb-heading-font-family);
     font-weight: var(--pb-heading-font-weight);
+    line-height: var(--pb-heading-line-height);
+}
+
+h2, {
+    font-family: 'Quintessential', cursive;
+    font-weight: var(--pb-heading-font-weight-2);
     line-height: var(--pb-heading-line-height);
 }
 
