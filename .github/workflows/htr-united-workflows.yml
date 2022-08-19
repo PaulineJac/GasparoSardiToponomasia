@@ -18,7 +18,7 @@ jobs:
           pip install htruc
       - name: Run HTRUC
         run: |
-          htruc test Fondue-gasparosarditoponomasia-dataset.yml
+          htruc test fondue-gasparosarditoponomasia-dataset.yml
   HTR_United_Metadata_Generator:
     runs-on: ubuntu-latest
     env:
@@ -54,7 +54,7 @@ jobs:
           anybadge --value=${{ env.HTRUNITED_FILES }} --file=badges/files.svg --label="XML Files" --color=#007ec6 --overwrite --template=${{ steps.get.outputs.file }}
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add Fondue-gasparosarditoponomasia-dataset.yml ./badges/
+          git add fondue-gasparosarditoponomasia-dataset.yml ./badges/
           git commit -m "[Automatic] Update the Catalog & the Badges" || echo "Nothing to commit"
           git push || echo "Nothing to push"
   HTRVX:
