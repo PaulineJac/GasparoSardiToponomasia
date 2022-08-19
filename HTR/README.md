@@ -1,4 +1,4 @@
-# Data set for HTR of cod. 174 of the Burgerbibliothek of Bern
+# Dataset for HTR of cod. 174 of the Burgerbibliothek of Bern
 ******
 Here you will find the data produced for the automatic transcription of cod. 174. 
 ******
