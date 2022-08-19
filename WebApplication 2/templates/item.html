@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title data-template="config:app-title"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald"/>
+        <link rel="stylesheet" href="resources/css/top.css"/>
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <style>
+div.item { display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5em;
+    margin-left: 30em;
+    margin-right: 30em;
+    text-align: justify;
+}</style>
+    </head>
+    <body classe="page-item">
+        <pb-page data-template="pages:pb-page" unresolved="unresolved">
+            <app-drawer-layout force-narrow="force-narrow">
+                <app-drawer slot="drawer" align="right">
+                    <div class="content-static">
+                        <pb-media-query query="(max-width: 1023px)">
+                            <!-- language selector -->
+                            <pb-lang name="lang" data-template="pages:languages"/>
+                        </pb-media-query>
+                    </div>
+                </app-drawer>
+                <app-header-layout>
+                    <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall">
+                        <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                    </app-header>
+                     
+                        <div class="item" data-template="api:get-latin-text"/>
+                  
+                        
+                </app-header-layout>
+                 
+            </app-drawer-layout>
+           
+        </pb-page>
+        <div class="splash"/>
+    </body>
+</html>

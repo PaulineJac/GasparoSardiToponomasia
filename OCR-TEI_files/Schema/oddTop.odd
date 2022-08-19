@@ -201,6 +201,12 @@
               <attDef ident="corresp" mode="add" usage="req"> </attDef>
             </attList>
           </elementSpec>
+          <elementSpec ident="pb" mode="change">
+            <attList>
+              <attDef ident="facs" mode="add">
+              </attDef>
+            </attList>
+          </elementSpec>
 
           
           <elementSpec ident="category" mode="change">
