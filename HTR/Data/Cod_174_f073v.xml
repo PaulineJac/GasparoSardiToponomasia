@@ -776,25 +776,8 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="3684"
-                   VPOS="4276"
-                   WIDTH="9"
-                   HEIGHT="13"
-                   ID="eSc_textblock_8cf6b7b8"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="3684 4289 3684 4276 3693 4276 3693 4289"/></Shape>
-          
-        </TextBlock>
         
-        <TextBlock HPOS="1786"
-                   VPOS="406"
-                   WIDTH="456"
-                   HEIGHT="170"
-                   ID="eSc_textblock_e5325d41"
-                   TAGREFS="BT99">
-          <Shape><Polygon POINTS="1786 406 1786 576 2242 576 2242 406"/></Shape>
-          
-        </TextBlock>
+        
         
 
         

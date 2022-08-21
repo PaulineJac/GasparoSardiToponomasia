@@ -888,15 +888,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="627"
-                   VPOS="512"
-                   WIDTH="1167"
-                   HEIGHT="186"
-                   ID="eSc_textblock_dee8d438"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="627 512 627 698 1794 698 1794 512"/></Shape>
-          
-        </TextBlock>
+        
         
         <TextBlock HPOS="627"
                    VPOS="512"

@@ -726,29 +726,6 @@
         </TextBlock>
         
         
-            
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_7f04cb3d"
-                    TAGREFS="LT85"
-                    BASELINE="3298 4839 3381 4848" 
-                    HPOS="3289"
-                    VPOS="4751"
-                    WIDTH="92"
-                    HEIGHT="114">
-            <Shape><Polygon POINTS="3298 4839 3302 4751 3381 4764 3381 4848 3372 4865 3289 4861"/></Shape>
-	    <String CONTENT="ex"
-                    HPOS="3289"
-                    VPOS="4751"
-                    WIDTH="92"
-                    HEIGHT="114"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
       </PrintSpace>
     </Page>
   </Layout>
