@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT98" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT99" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT100" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT101" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT110" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT111" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
-    <OtherTag ID="LT41" LABEL="headingLine" DESCRIPTION="line type headingLine"/><OtherTag ID="LT43" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT85" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT41" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT43" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT85" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -210,7 +210,7 @@
                    WIDTH="793.0"
                    HEIGHT="493.0"
                    ID="eSc_textblock_fed41c66"
-                   TAGREFS="BT">
+                   TAGREFS="BT110">
           <Shape><Polygon POINTS="2035 445 2035 938 2828 938 2828 445"/></Shape>
           
           

@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT98" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT99" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT100" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT101" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT110" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT111" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
-    <OtherTag ID="LT41" LABEL="headingLine" DESCRIPTION="line type headingLine"/><OtherTag ID="LT43" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT85" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT41" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT43" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT85" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -735,7 +735,7 @@
                     WIDTH="85"
                     HEIGHT="102">
             <Shape><Polygon POINTS="3117 4783 3117 4699 3202 4708 3202 4783 3202 4801 3117 4801"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="et"
                     HPOS="3117"
                     VPOS="4699"
                     WIDTH="85"
