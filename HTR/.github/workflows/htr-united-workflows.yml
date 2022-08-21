@@ -18,7 +18,7 @@ jobs:
           pip install htruc
       - name: Run HTRUC
         run: |
-          htruc test fondue-gasparosarditoponomasia-dataset.yml
+          htruc test fondue-gasparosarditoponomasia-dataset.yml 
   HTR_United_Metadata_Generator:
     runs-on: ubuntu-latest
     env:
@@ -35,7 +35,7 @@ jobs:
           pip install htr-united-metadata-generator htruc anybadge
       - name: Run Report
         run: |
-          humGenerator --chars -n NFD --parse alto --group ./HTR/Data/*.xml --github-envs --to-json updated_metrics.json
+          humGenerator --chars -n NFD --parse alto --group ./Data/*.xml --github-envs --to-json updated_metrics.json
           cat envs.txt >> $GITHUB_ENV
       - name: Get HTR United Badge Template
         if: github.ref == 'refs/heads/main'
@@ -45,8 +45,7 @@ jobs:
       - name: Automatically update the Catalog & the Badges
         if: github.ref == 'refs/heads/main'
         run: |-
-          htruc update-volumes htr-united.yml updated_metrics.json --inplace
-          # Generate badges
+         
           mkdir -p badges
           anybadge --value=${{ env.HTRUNITED_CHARS }} --file=badges/characters.svg --label=Characters --color=#007ec6 --overwrite --template=${{ steps.get.outputs.file }}
           anybadge --value=${{ env.HTRUNITED_REGNS }} --file=badges/regions.svg --label=Regions --color=#007ec6 --overwrite --template=${{ steps.get.outputs.file }}
@@ -71,4 +70,4 @@ jobs:
           pip install htrvx
       - name: Run HTRVX
         run: |
-          htrvx --verbose --group --format alto --check-empty --segmonto --xsd ./HTR/Data/*.xml
+          htrvx --verbose --group --format alto --check-empty --segmonto --xsd ./Data/*.xml
