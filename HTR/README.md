@@ -1,6 +1,6 @@
 # Dataset for HTR of cod. 174 of the Burgerbibliothek of Bern
 
-![characters badge](./badges/characters.svg) ![regions badge](./badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](./badges/files.svg) 
+![characters badge](GasparoSardiToponomasia/badges/characters.svg) ![regions badge](GasparoSardiToponomasia/badges/regions.svg) ![lines badge](GasparoSardiToponomasia/badges/lines.svg) ![files badge](GasparoSardiToponomasia/badges/files.svg) 
 ******
 Here you will find the data produced for the automatic transcription of cod. 174. 
 ******
