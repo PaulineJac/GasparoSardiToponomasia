@@ -10,16 +10,13 @@ authors:
       - digitization
   - name: Mittenhuber
     surname: Florian
-    roles:
-     - digitization
- institutions: [Burgerbibliothek of Bern]
- description: >-
-   Dataset produced as for the project to edit Gasparo Sardi’s Toponomasia from
-   codex 174 of the Burgerbibliothek of Bern. 
-   codex 174 of the Burgerbibliothek of Bern. Images are available on request by writing to: pauline.jacsont@unige.ch.
- project-name: FoNDUE
- language:
-   - lat
+institutions: []
+description: >-
+  Dataset produced as for the project to edit Gasparo Sardi’s Toponomasia from
+  codex 174 of the Burgerbibliothek of Bern. Images are available on request by writing to: pauline.jacsont [ at ] unige.ch.
+project-name: FoNDUE
+language:
+  - lat
 production-software: eScriptorium + Kraken
 script:
   - iso: Latn
