@@ -86,15 +86,13 @@
                     <main>
                         <pb-drawer toggle="tocToggle" class="toc" emit="toc" subscribe="transcription" max-width="1024px">
                             <div class="drawer-content">
-                                <h3>
-                                    <pb-i18n key="document.contents">Contents</pb-i18n>
+                                <h3>Contents
                                 </h3>
-                                <pb-load id="toc" url="api/document/{doc}/contents?target=transcription&amp;icons=true" expand="expand" src="document1" subscribe="toc" auto="auto">
-                                    <pb-i18n key="dialogs.loading">Loading</pb-i18n>
+                                <pb-load id="toc" url="api/document/{doc}/contents?target=transcription&amp;icons=true" expand="expand" src="document1" subscribe="toc" auto="auto">Loading
                                 </pb-load>
                             </div>
                         </pb-drawer>
-                        <pb-view class="breadcrumbs" src="document1" xpath="//teiHeader/fileDesc/titleStmt/title" view="single">
+                        <pb-view class="breadcrumbs" src="document1" xpath="//tei:head" view="single">
                             <pb-param name="header" value="short"/>
                         </pb-view>
                         

@@ -108,7 +108,7 @@
                      </geo>
                   </location>
                </place>
-               <place key="Brodici" n="Abroditæ">
+               <place key="Brodici" n="Abroditae">
                   <placename ref="Ø">Brodici</placename>
                   <location>
                      <geogFeat>approximate</geogFeat>
@@ -174,7 +174,523 @@
                      </geo>
                   </location>
                </place>
-               
+                <place key="Tel Akhziv" n="Acazib">
+                  <placename ref="293408">Tel Akhziv</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>33.04835</lat>
+                        <lng>35.10116</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Tel Akhziv" n="Acci">
+                  <placename ref="2516925">Guadix</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>37.29932</lat>
+                        <lng>-3.13922</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Acre" n="Ace">
+                  <placename ref="295721">Acre</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>32.92814</lat>
+                        <lng>35.07647</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Antimilos" n="Acelaida">
+                  <placename ref="265077">Antimilos</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>36.78914</lat>
+                        <lng>24.23788</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Asolo" n="Acelum">
+                  <placename ref="3182732">Asolo</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>45.78854</lat>
+                        <lng>11.91701</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Jhelum River" n="Aceſines">
+                  <placename ref="1114957">Jhelum River</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>31.16853</lat>
+                        <lng>72.15066</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Matera" n="Achacuntia">
+                  <placename ref="6540110">Matera</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>40.66852</lat>
+                        <lng>16.60159</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Nusaybin" n="Achad">
+                  <placename ref="6540110">Nusaybin</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>37.07028</lat>
+                        <lng>41.21465</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Achaea" n="Achaea">
+                  <placename ref="265712">Achaea</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>38.13333</lat>
+                        <lng>22</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Achani" n="Achani">
+                  <placename ref="8504626">Achani</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>41.50858</lat>
+                        <lng>59.23828</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Achelóos Potamós" n="Achelous">
+                  <placename ref="265483">Achelóos Potamós</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>38.33816</lat>
+                        <lng>21.1056</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Acheron" n="Acheron">
+                  <placename ref="ø">Acheron</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>39.218500</lat>
+                        <lng>20.485000</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Acheron" n="Acheron">
+                  <placename ref="ø">Acheron</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>39.218500</lat>
+                        <lng>20.485000</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Acheron" n="Acheron">
+                  <placename ref="ø">Soonautes</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>39.236111</lat>
+                        <lng>20.476111</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Achsaph" n="Achsaph">
+                  <placename ref="ø">Achsaph</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>32.8731</lat>
+                        <lng>35.1508</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Acianus" n="Acianus">
+                  <placename ref="ø">Acianus</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>43.90921</lat>
+                        <lng>12.9164</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Straubing" n="Acilia">
+                  <placename ref="geo-2826099">Straubing</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>48.88126</lat>
+                        <lng>12.57385</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Nisí Sífnos" n="Acis">
+                  <placename ref="geo-2826099">Nisí Sífnos</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>36.97382</lat>
+                        <lng>24.7036</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Avignon" n="Auenorium">
+                  <placename ref="geo-3035681">Avignon</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>43.94834</lat>
+                        <lng>4.80892</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Üechtland" n="Auenticensis">
+                  <placename ref="geo-7285870">Üechtland</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>46.80418</lat>
+                        <lng>7.15974</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Lago d'Averno" n="Auernus">
+                  <placename ref="geo-7285870">Lago d'Averno</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>40.83823</lat>
+                        <lng>14.07452</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Lago d'Averno" n="Auernus">
+                  <placename ref="geo-3182641">Lago d'Averno</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>40.83823</lat>
+                        <lng>14.07452</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Ofanto" n="Ausidus">
+                  <placename ref="geo-3172112">Ofanto</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>41.36019</lat>
+                        <lng>16.19908</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Astorga" n="Augusta">
+                  <placename ref="geo-3172112">Astorga</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>41.36019</lat>
+                        <lng>16.19908</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Bassignana" n="Augusta_Bacienorum">
+                  <placename ref="geo-3182292">Bassignana</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>45.0011</lat>
+                        <lng>8.73291</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Hispania Lusitania" n="Augusta_Lusitaniae">
+                  <placename ref="geo-3172112">Hispania Lusitania</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>38.91624</lat>
+                        <lng>-6.33905</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Aosta" n="Augusta Salassiorum">
+                  <placename ref="geo-3182997">Aosta</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>45.73764</lat>
+                        <lng>7.31722</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Augusta Raurica" n="Augusta_Raurica">
+                  <placename ref="ø">Augusta Raurica</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>47.533889</lat>
+                        <lng>7.721389</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Augusta Viromanduorum" n="Augusta_Riromanduorum">
+                  <placename ref="ø">Augusta Riromanduorum</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>49.8486</lat>
+                        <lng>3.2864</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Turin" n="Augasta_Taurinorum">
+                  <placename ref="geo-3165524">Turin</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>45.07049</lat>
+                        <lng>7.68682</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Trier" n="Augasta_Triuirorum">
+                  <placename ref="geo-2821164">Trier</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>49.75565</lat>
+                        <lng>6.63935</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Augsburg" n="Augasta_Vendelicorum">
+                  <placename ref="geo-2954172">Augsburg</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>48.37154</lat>
+                        <lng>10.89851</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Soissons" n="Augusta_Vessonum">
+                  <placename ref="geo-2974389">Soissons</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>49.38167</lat>
+                        <lng>3.32361</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Gaistig" n="Augustana">
+                  <placename ref="ø">Gaistig</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>49</lat>
+                        <lng>11.5</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Gaistig" n="Augustia">
+                  <placename ref="ø">Gaistig</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>49</lat>
+                        <lng>11.5</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Nevers" n="Augustonemetum">
+                  <placename ref="geo-2990474">Nevers</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>46.98956</lat>
+                        <lng>3.159</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Limoges" n="Augustoritum">
+                  <placename ref="ø">Limoges</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>2975061</lat>
+                        <lng>-1.20259</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Aulerci" n="Aulerci">
+                  <placename ref="geo-2998286">Aulerci</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>45.83362</lat>
+                        <lng>1.24759</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Auloli" n="Auloli">
+                  <placename ref="ø">Auloli</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>28.5</lat>
+                        <lng>-10</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Caulonia" n="Aulon">
+                  <placename ref="geo-2525053">Caulonia</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>38.38171</lat>
+                        <lng>16.40951</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Malacca" n="Aurea">
+                  <placename ref="geo-1734759">Malacca</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>2.196</lat>
+                        <lng>102.2405</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Arezzo" n="Aurelia">
+                  <placename ref="geo-3182884">Arezzo</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>43.46276</lat>
+                        <lng>11.88068</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Mecsek" n="Aureus">
+                  <placename ref="geo-3048258">Mecsek</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>46.16667</lat>
+                        <lng>18.3</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Jaén" n="Auringe">
+                  <placename ref="geo-2516395">Jaén</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>37.76922</lat>
+                        <lng>-3.79028</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Aurinini" n="Aurinini">
+                  <placename ref="geo-2516395">Aurinini</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>42.66666</lat>
+                        <lng>11.50686</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Auripolis" n="Auripolis">
+                  <placename ref="ø">Auripolis</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>48.76508</lat>
+                        <lng>11.42372</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Sessa Aurunca" n="Aurunca">
+                  <placename ref="ø">Sessa Aurunca</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>41.23987</lat>
+                        <lng>13.92966</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
                <place key="Qiryat Ye‘arim" n="Baala">
                   <placename ref="geo-293821">Qiryat Ye‘arim</placename>
                   <location>
@@ -208,6 +724,18 @@
                      </geo>
                   </location>
                </place>
+               <place key="Nordwald" n="Bacaenis">
+                  <placename ref="geo-2861848">Nordwald</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>51.6479</lat>
+                        <lng>8.12468</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               
                <place key="Chalon-sur-Saône" n="Caballinum">
                   <placename ref="geo-3027484">Chalon-sur-Saône</placename>
                   <location>
@@ -230,6 +758,601 @@
                      </geo>
                   </location>
                </place>
+               <place key="Cabira" n="Cabira">
+                  <placename ref="ø">Cabira</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>40.58956</lat>
+                        <lng>36.95501</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Aden" n="Cabubathra">
+                  <placename ref="geo-415189">Aden</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>12.77944</lat>
+                        <lng>45.03667</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Cabyle" n="Cabyla">
+                  <placename ref="ø">Cabyle</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>42.550556</lat>
+                        <lng>26.484167</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Moncayo" n="Caci">
+                  <placename ref="ø">Moncayo</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>41.78704</lat>
+                        <lng>-1.83957</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Cacra" n="Cacra">
+                  <placename ref="ø">Cacra</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>36.6891</lat>
+                        <lng>15.15401</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Cahorsi" n="Cadarci">
+                  <placename ref="geo-3029213">Cahorsi</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>44.4491</lat>
+                        <lng>1.43663</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Kellmünz" n="Caelius">
+                  <placename ref="geo-2891749">Kellmünz</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>48.12159</lat>
+                        <lng>10.12811</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Bath" n="Caerbladud">
+                  <placename ref="geo-2891749">Bath</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>51.3751</lat>
+                        <lng>-2.36172</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Debir" n="Dabir">
+                  <placename ref="geo-284486">Debir</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>31.40967</lat>
+                        <lng>34.97329</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Dacia" n="Dacia">
+                  <placename ref="geo-284486">Dacia</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>45.51667</lat>
+                        <lng>22.78333</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Iulia" n="Daedalelam">
+                  <placename ref="ø">Iulia</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat/>
+                        <lng/>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Diessa" n="Damasia">
+                  <placename ref="ø">Diessa</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>50.370833</lat>
+                        <lng>8.015833</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Deuonia" n="Damnonium">
+                  <placename ref="geo-11609025">Deuonia</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>50.7512</lat>
+                        <lng>-3.81027</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Debir" n="Eblana">
+                  <placename ref="geo-2964574">Debir</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>53.33306</lat>
+                        <lng>-6.24889</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Curia Raetorum" n="Ebodurum">
+                  <placename ref="ø">Curia Raetorum</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>46.84625</lat>
+                        <lng>9.526627</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="York" n="Eboracem">
+                  <placename ref="geo-2633352">York</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>53.95763</lat>
+                        <lng>-1.08271</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Iverdon" n="Ebrodunum">
+                  <placename ref="geo-2633352">Iverdon</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>46.77852</lat>
+                        <lng>6.64115</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Ebro" n="Ebrus">
+                  <placename ref="geo-3123754">Ebro</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>40.73024</lat>
+                        <lng> 0.86985</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Ibar" n="Ebrus">
+                  <placename ref="geo-837246">Ibar</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>43.7275</lat>
+                        <lng>20.74944</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Ibar" n="Ebrus">
+                  <placename ref="geo-837246">Ibar</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>43.7275</lat>
+                        <lng>20.74944</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Hebrides" n="Ebudae">
+                  <placename ref="geo-2646177">Hebrides</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>56.5</lat>
+                        <lng>-6</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Hebrides" n="Eburaici">
+                  <placename ref="ø">Hebrides</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>49.02414</lat>
+                        <lng>1.15082</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Hebrides" n="Eburones">
+                  <placename ref="ø">Hebrides</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>49.02414</lat>
+                        <lng>1.15082</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Olomouc" n="Eburum">
+                  <placename ref="geo-2646177">Olomouc</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>49.59552</lat>
+                        <lng>17.25175</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Illa d'Eivissa" n="Ebussus">
+                  <placename ref="geo-2516477">Illa d'Eivissa</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>38.97436</lat>
+                        <lng>1.40007</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Caldano" n="Ecalidus">
+                  <placename ref="ø">Caldano</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>43.719394</lat>
+                        <lng>10.877036</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Ecbatana" n="Ecbatani">
+                  <placename ref="ø">Ecbatana</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>34.806389</lat>
+                        <lng>48.516111</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Akhziv" n="Ecdippa">
+                  <placename ref="geo-293408">Akhziv</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>33.04835</lat>
+                        <lng>35.10116</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Echinades" n="Echinades">
+                  <placename ref="ø">Echinades</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>38.303611</lat>
+                        <lng>21.110833</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Fabaria" n="Fabaria">
+                  <placename ref="ø">Fabaria</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>54.00738</lat>
+                        <lng>7.808863</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Torrente Farfa" n="Fabaris">
+                  <placename ref="ø">Torrente Farfa</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>42.21667</lat>
+                        <lng>12.6</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Pfäfers" n="Fabarium">
+                  <placename ref="geo-2659224">Pfäfers</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>46.98986</lat>
+                        <lng>9.50077</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Falacrium" n="Falacrium">
+                  <placename ref="ø">Falacrium</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>38.3</lat>
+                        <lng>15.51667</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Salmá" n="Gaba">
+                  <placename ref="geo-164907">Salmá</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>35.689</lat>
+                        <lng>36.13695</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Jablah" n="Gabala">
+                  <placename ref="geo-169304">Jablah</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>35.36211</lat>
+                        <lng>35.92759</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Gabathon" n="Gabathon">
+                  <placename ref="ø">Gabathon</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>31.951944</lat>
+                        <lng>34.888056</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Secchia" n="Gabellus">
+                  <placename ref="geo-8966175">Secchia</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>44.71739</lat>
+                        <lng>10.95483</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Capri" n="Gabienses">
+                  <placename ref="geo-3180630">Capri</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>40.55073</lat>
+                        <lng>14.24263</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+            <place key="Gabij" n="Gabij">
+                  <placename ref="ø">Falacrium</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>41.886944</lat>
+                        <lng>12.715833</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Halieis" n="Halieis">
+                  <placename ref="ø">Halieis</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>37.3132</lat>
+                        <lng>23.1491</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Jacca" n="Iacca">
+                  <placename ref="ø">Jacca</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>42.56898</lat>
+                        <lng>-0.54987</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="La" n="La">
+                  <placename ref="ø">La</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>36.733847</lat>
+                        <lng>22.504011</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+                  </place>
+                  <place key="Maclodio" n="Maclodium">
+                  <placename ref="geo-6543182">Maclodio</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>45.47778</lat>
+                        <lng>10.04217</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Nehardea" n="Naaratha">
+                  <placename ref="ø">Nehardea</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>33.378611</lat>
+                        <lng>43.715833</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Obebusca" n="Obebusca">
+                  <placename ref="ø">Obebusca</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>37.87102</lat>
+                        <lng>-4.18501</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Passari" n="Pachinum">
+                  <placename ref="geo-2523870">Passari</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>36.6891</lat>
+                        <lng>15.15401</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Quintanorum" n="Quintanorum">
+                  <placename ref="geo-2744731">Quintanorum</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>51.3325</lat>
+                        <lng>5.39583</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Quintanorum" n="Quintanorum">
+                  <placename ref="geo-2744731">Quintanorum</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>51.3325</lat>
+                        <lng>5.39583</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Coventry" n="Rage">
+                  <placename ref="geo-2652221">Coventry</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>52.40656</lat>
+                        <lng>-1.51217</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Yemen" n="Sabae">
+                  <placename ref="geo-69543">Yemen</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>15.5</lat>
+                        <lng>47.5</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+                <place key="Tabenda" n="Tabenda">
+                  <placename ref="ø">Tabenda</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>38.658333</lat>
+                        <lng>34.853611</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Waal" n="Vacalos">
+                  <placename ref="geo-2745133">Waal</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>51.83169</lat>
+                        <lng>4.53795</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Xylina" n="Xylina">
+                  <placename ref="ø">Xylina"</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>38.658333</lat>
+                        <lng>34.853611</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               <place key="Singapore" n="Zaba">
+                  <placename ref="geo-1880251">Singapore"</placename>
+                  <location>
+                     <geogFeat>approximate</geogFeat>
+                     <geo>
+                        <lat>1.36667</lat>
+                        <lng>103.8</lng>
+                        <type>approximate</type>
+                     </geo>
+                  </location>
+               </place>
+               
             </listPlace>
    </standOff>
 </TEI>

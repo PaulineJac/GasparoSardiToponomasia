@@ -8,7 +8,7 @@ import module namespace m='http://www.tei-c.org/pm/models/serafin/web' at '/db/a
 declare function pml:transform($xml as node()*, $parameters as map(*)?) {
 
    let $options := map {
-       "styles": ["transform/serafin.css"],
+       "styles": ["transform/top.css"],
        "collection": "/db/apps/SardiToponomasia/transform",
        "parameters": if (exists($parameters)) then $parameters else map {}
    }

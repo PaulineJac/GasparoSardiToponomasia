@@ -44,7 +44,7 @@
                         "in": "query",
                         "schema": {
                             "type": "integer",
-                            "default": 50
+                            "default": 40
                         }
                     },
                     {

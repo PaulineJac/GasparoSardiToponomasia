@@ -1,7 +1,7 @@
 (:~
 
     Transformation module generated from TEI ODD extensions for processing models.
-    ODD: /db/apps/SardiToponomasia/resources/odd/serafin.odd
+    ODD: /db/apps/SardiToponomasia/resources/odd/Toponomasia.odd
  :)
 xquery version "3.1";
 
@@ -36,7 +36,7 @@ declare function model:transform($options as map(*), $input as node()*) {
         map:merge(($options,
             map {
                 "output": ["web"],
-                "odd": "/db/apps/SardiToponomasia/resources/odd/serafin.odd",
+                "odd": "/db/apps/SardiToponomasia/resources/odd/Toponomasia.odd",
                 "apply": model:apply#2,
                 "apply-children": model:apply-children#3
             }
@@ -122,7 +122,10 @@ declare function model:apply($config as map(*), $input as node()*) {
                         else
                             html:inline($config, ., ("tei-signed2", css:map-rend-to-class(.)), .)                            => model:map($node, $trackIds)
                     case element(pb) return
-                        html:break($config, ., css:get-rendition(., ("tei-pb", css:map-rend-to-class(.))), ., 'page', (concat(if(@n) then concat(@n,' ') else '',if(@facs) then                   concat('@',@facs) else '')))                        => model:map($node, $trackIds)
+                        if (count(../*) = 1 and count(ancestor::*) = 1) then
+                            html:inline($config, ., css:get-rendition(., ("tei-pb2", css:map-rend-to-class(.))), '[Empty page]')                            => model:map($node, $trackIds)
+                        else
+                            html:webcomponent($config, ., ("tei-pb3", css:map-rend-to-class(.)), ., 'pb-facs-link', map {"facs": let $name := replace(util:document-name($parameters?root), '^([^\.]+)\..*$', '$1') return  @facs })                            => model:map($node, $trackIds)
                     case element(pc) return
                         html:inline($config, ., ("tei-pc", css:map-rend-to-class(.)), .)                        => model:map($node, $trackIds)
                     case element(anchor) return

@@ -1,7 +1,25 @@
 <app-toolbar class="menubar">
     <a href="${app}/places.html" class="logo" data-template="lib:parse-params"/>
      <!-- Search input -->
-    <pb-search action="${app}/search.html" data-template="lib:parse-params" value="${query}" redirect="redirect"/>
+     <div/>
+     <div/>
+     <div/>
+     <pb-search action="${app}/search.html" data-template="pages:parse-params" value="${query}" redirect="redirect"/>
+        <div class="container-infobulle">
+            <iron-icon class="infobulle" icon="icons:help"/>
+            <span>
+                <span class="infobulle-content">
+                    <p>Use * to search different forms of a word. Example: opp* ➟ oppidum, oppido, etc.</p>
+                    <p>Use ~ to find multiple spellings of a word or related words. <br/>Example: Thessaliae~ ➟ Thessaliae, Theſſaliae, etc.</p>
+    
+                </span>
+                
+            </span>
+        </div>
+        <div/>
+        <div/>
+        <div/>
+       <div/>
     <pb-media-query query="min-width: 1024px">
         <a href="http://localhost:8080/exist/apps/SardiToponomasia/masterfile.xml" data-template="lib:parse-params">Transcription</a>
         
@@ -11,6 +29,6 @@
         
     </pb-media-query>
 
-   
+    <div/>
    
 </app-toolbar>
