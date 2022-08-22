@@ -12,6 +12,6 @@ The segmentation of our data was performed according to the controlled vocabular
 
 - In the Models folder you will find the models produced. 
 
-- In order to test and compare our HTR modes, we have divided our ground truth into three parts according to the .txt files available in the Split folder 
+- In order to test and compare our HTR modes, we have divided our ground truth into three parts according to the .txt files available in the Split folder. 
 
 
