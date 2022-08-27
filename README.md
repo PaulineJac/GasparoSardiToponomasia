@@ -1,6 +1,6 @@
 # Gasparo Sardi Toponomasia
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7026585.svg)](https://doi.org/10.5281/zenodo.7026585)
-**********
 
 The aim of this project is to create a digital edition of the Codex_174 of the Burgerbibliothek in Bern. This repository contains all the documents created for this project. 
 
